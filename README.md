@@ -1,4 +1,5 @@
-<img src='https://github-readme-stats.vercel.app/api?username=miharatoki'>
+<img src='https://github-readme-stats.vercel.app/api?username=miharatoki'>  
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=miharatoki'>
 # 自己紹介  
 前職では建設業の事務をしていましたが、生涯事務職をするのは嫌だと思いエンジニアへの転職を決意しました。現在はDMM WEBCAMPへ通学中です、
 
