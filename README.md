@@ -1,6 +1,6 @@
 <img src='https://github-readme-stats.vercel.app/api?username=miharatoki'>
-[![trophy](https://github-profile-trophy.vercel.app/?username=miharatoki)](https://github.com/ryo-ma/github-profile-trophy)
-
+### 自己紹介
+前職では建設業の事務をしていましたが、生涯事務職をするのは嫌だと思いエンジニアへの転職を決意しました。現在はDMM WEBCAMPへ通学中です、
 
 
 <!--
