@@ -2,12 +2,6 @@
  <img src='https://github-readme-stats.vercel.app/api?username=miharatoki'>  
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=miharatoki&layout=compact'>
 </p>
-<h1>自己紹介</h1>
- <p>前職では建設業の事務をしていましたが、生涯事務職をするのは嫌だと思いエンジニアへの転職を決意しました。現在はDMM WEBCAMPへ通学中です、</p>
- | Command | Description |
-| --- | --- |  
-| git status | List all new or modified files |  
-| git diff | Show file differences that haven't been staged |
 
 
 <!--
